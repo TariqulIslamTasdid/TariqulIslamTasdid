@@ -1,3 +1,6 @@
+<h1 align="center">Hi👋, I'm Tariqul</h1>
+<h3 align="center">Ex-DataSoft | PHP | Laravel | React | AWS | Clean Code | Continuous Learner</h3>
+
 - 👋 Hi, I’m Md Tariqul Islam
 - 👀 I’m interested in Backend Engineering, System Design, Software Infrastructure, Distributed Service, CI/CD, Cloud
 - 🌱 I’m currently learning Serverless
