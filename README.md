@@ -40,6 +40,7 @@
 - **🏗️ Code editors:**
 <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
+#### More about me
 - 🌱 I’m currently learning Serverless
 - 💞️ I’m looking to collaborate on R&D
 - 📫 How to reach me: mdtariquldev@gmail.com
