@@ -17,10 +17,10 @@
 
 #### What my skill set looks like?
 - 🖥 **Front-End:** 
-  - **📜 Languages:** • `HTML` • `CSS` • `XAML` • `JavaScript` • `jQuery` • `ajax` • `json` • `reactJs` 
+  - **📜 Languages:** • `HTML` • `CSS` • `XAML` • `JavaScript` • `jQuery` • `ajax` • `json` 
   - **🔬 Frameworks:**  
     - **🖥 Desktop:** • 
-    - **🌐 Web:** • 
+    - **🌐 Web:** • `reactJs` 
   - **📋 Reporting toolkits:** • [Name](Link_Goes_Here) 
 - 🗄️ **Back-End:**
   - **📜 Languages:** • `PHP` `MYSQL`
