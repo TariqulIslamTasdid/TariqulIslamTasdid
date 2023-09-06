@@ -28,7 +28,7 @@
   - **🕹 Frameworks:** • [Laravel](https://laravel.com/) 
   - **💾 Databases:** • [MSSQL](https://www.mysql.com/) • [MongoDB](https://www.mongodb.com/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr)
+  - **🔌 Communication protocols:** • [REST](https://restfulapi.net/) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr)
 - 🎡 **Software development ecosystem:**
   - **📁 Code Repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [AWS DevOps Server](https://aws.amazon.com/devops/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
