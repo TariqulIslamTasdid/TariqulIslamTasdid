@@ -6,7 +6,7 @@
 </p>
 
 #### Who I am?
-- A former Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** 
+- Software Engineer
 - Having 5 years of hands-on experience in **New Technology Adoption, End-To-End Product Design & Development** with **SDLC**
 - Having built **Web** apps targeting **multi-platform**, **cross-platform** ecosystems in **monolithic** and **microservices** architectures
 
