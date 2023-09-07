@@ -21,7 +21,7 @@
   - **🔬 Frameworks:**  
     - **🖥 Desktop:** • 
     - **🌐 Web:** • `reactJs` 
-  - **📋 Reporting toolkits:** • [Name](Link_Goes_Here) 
+  - **📋 Reporting toolkits:** 
 - 🗄️ **Back-End:**
   - **📜 Languages:** • `PHP` `MYSQL`
   - **🔭 Services:** •
